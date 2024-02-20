@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708364203478,
+      "tag": "0000_quick_tana_nile",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708364321060,
+      "tag": "0001_short_satana",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708365562540,
+      "tag": "0002_classy_ogun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708365628252,
+      "tag": "0003_certain_microbe",
+      "breakpoints": true
+    }
+  ]
+}
